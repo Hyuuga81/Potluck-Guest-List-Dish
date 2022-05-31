@@ -1,0 +1,2 @@
+# Potluck-Guest-List-Dish
+The Potluck guestlist is a useful web app which allows you to enter the names of people that you will be inviting to a potluck and you can also change the number of people invited. Then you can enter the dishes you would like to have at the potluck and it will randomly assign dishes to guests. A fun way to spice things up for your next party. This app utilizes arrays, DOM manipulation, Math.random formula and forms. 
